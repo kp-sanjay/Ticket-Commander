@@ -1,0 +1,22 @@
+{
+  "movieName": "Jananayagan",
+  "region": "chennai",
+  "theatres": [
+    { "name": "AGS Cinemas Navalur", "priority": 10 },
+    { "name": "SPI Sathyam", "priority": 9 },
+    { "name": "PVR Phoenix", "priority": 8 }
+  ],
+  "showTimes": [
+    { "time": "7:00 PM", "priority": 10 },
+    { "time": "10:00 PM", "priority": 9 },
+    { "time": "4:00 PM", "priority": 8 }
+  ],
+  "seatPreference": {
+    "rowPreference": "upper",
+    "positionPreference": "center",
+    "count": 2
+  },
+  "autoMonitorEnabled": false,
+  "simulation": false
+}
+
