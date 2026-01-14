@@ -1,7 +1,7 @@
 # AutoTicket Commander
 
 ## Overview
-- Monitors ticket opening for `Jananayagan` on `BookMyShow`
+- Monitors ticket opening for Movies on `BookMyShow` and `District`
 - Ranks theatres and showtimes, selects upper row center adjacent seats
 - Sends call and SMS via Twilio when seats open
 - Opens booking page in an automated browser and waits for payment
